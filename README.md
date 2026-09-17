@@ -37,15 +37,25 @@ previously: LIA internship at rhyme sthlm, working in react, node.js, and stripe
 
 ### projects
 
-| project | description |
-|---------|--------------|
-| [**portfolio**](https://emilalpsten.com) | this site, actually. react + typescript, built and animated from scratch, deployed and maintained by me. |
-| [**tm-scoring-statistics**](https://github.com/alpsten/tm-scoring-statistics) | a full statistics tracker for my terraforming mars board game group. react + typescript frontend, supabase/postgres backend with row-level security, plus a log parser that turns messy raw game data into structured stats. |
-| [**internship-companion**](https://internship-companion.netlify.app) | companion app connected to my LIA internship, still evolving as i keep building on it after the fact. |
-| [**tmchampionship**](https://tmchampionship.netlify.app) | a tournament tool for organizing competitive terraforming mars play. |
+#### [portfolio-website](https://emilalpsten.com)
+this site, actually. built from scratch with react and typescript, with custom animations, a dynamic cv page driven by structured data, and a design system i built and maintain myself rather than reaching for a template.
+
+#### [internship-companion](https://internship-companion.netlify.app)
+companion app connected to my LIA internship at rhyme sthlm, built to support the work i did there. still evolving since i keep coming back to refine it, more of an ongoing project than a finished, frozen one.
+
+#### [1001-songs-for-majken](https://github.com/alpsten/1001-songs-for-majken)
+a long-term digital mixtape for my daughter: a personal archive of songs, artists, and albums, along with the memories and meanings each one carries. more of a living project than a typical app.
+
+#### [tm-scoring-statistics](https://github.com/alpsten/tm-scoring-statistics)
+a full statistics tracker for my terraforming mars board game group. react + typescript frontend, supabase/postgres backend with row-level security, plus a log parser that turns messy raw game data into structured stats.
+
+#### [tm-championship](https://tmchampionship.netlify.app)
+a tournament bracket tool for organizing competitive terraforming mars play among my friend group, built to handle seeding, matchups, and results without resorting to a spreadsheet.
+
 
 ---
 
 ### contact
 
 [![email](https://img.shields.io/badge/email-hello.alpsten%40gmail.com-333?logo=gmail&logoColor=EA4335)](mailto:hello.alpsten@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-emil--alpsten-333?logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/emil-alpsten)
