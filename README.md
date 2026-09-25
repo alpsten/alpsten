@@ -1,7 +1,7 @@
 <a href="https://www.emilalpsten.com">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:f78166&height=210&section=header&text=emil%20alpsten&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=java%20developer%20%7C%20software%20developer&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:f78166&height=210&section=header&text=emil%20alpsten&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=java%20developer%20%7C%20fullstack%20developer&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn"
     alt="emil alpsten"
   />
 </a>
