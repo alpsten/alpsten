@@ -27,8 +27,6 @@
 
 <h2 align="center">tech stack</h2>
 
-<h3 align="center">languages & core</h3>
-
 <p align="center">
   <a href="https://www.java.com/">
     <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="java" />
@@ -43,8 +41,6 @@
     <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white" alt="html" />
   </a>
 </p>
-
-<h3 align="center">frontend</h3>
 
 <p align="center">
   <a href="https://react.dev/">
@@ -64,8 +60,6 @@
   </a>
 </p>
 
-<h3 align="center">backend</h3>
-
 <p align="center">
   <a href="https://spring.io/projects/spring-boot">
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="spring boot" />
@@ -84,8 +78,6 @@
   </a>
 </p>
 
-<h3 align="center">databases & services</h3>
-
 <p align="center">
   <a href="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="mysql" />
@@ -100,8 +92,6 @@
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" />
   </a>
 </p>
-
-<h3 align="center">tools</h3>
 
 <p align="center">
   <a href="https://git-scm.com/">
