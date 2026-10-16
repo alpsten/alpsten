@@ -46,6 +46,7 @@
   <a href="https://tailwindcss.com/">
     <img src="https://img.shields.io/badge/tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="tailwind" />
   </a>
+  <p align="center">
   <a href="https://www.postgresql.org/">
     <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="postgresql" />
   </a>
