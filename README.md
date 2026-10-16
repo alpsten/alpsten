@@ -64,9 +64,6 @@
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white" alt="git" />
   </a>
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
-  </a>
 </p>
 
 <h3 align="center">currently learning</h3>
