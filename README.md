@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://www.linkedin.com/in/emil-alpsten/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="mylinkedin" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="mailto:hello.alpsten@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
